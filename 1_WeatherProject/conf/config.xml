@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<locations>
+	<state value="Alabama">
+	    <option value="KBHM"> Birmingham, Birmingham International Airport </option>
+	    <option value="KBFM"> Mobile, Mobile Downtown Airport </option>
+	</state>
+	<state value="Arizona">
+	    <option value="KTUS"> Tucson, Tucson International Airport </option>
+	</state>
+	<state value="Arkansas">
+	    <option value="KAWM"> West Memphis, West Memphis Municipal Airport </option>
+	</state>
+	<state value="Florida">
+		<option value="KDAB"> Daytona Beach, Daytona Beach Regional Airport </option>
+		<option value="KFLL"> Fort Lauderdale, Fort Lauderdale / Hollywood International Airport </option>
+		<option value="KRSW"> Fort Myers, Southwest Florida International Airport </option>
+		<option value="KNIP"> Jacksonville, Naval Air Station </option>
+		<option value="KSFB"> Orlando / Sanford Airport </option>
+		<option value="KPFN"> Panama City, Panama City-Bay County International Airport </option>
+		<option value="KSRQ"> Sarasota / Bradenton, Sarasota-Bradenton International Airport </option>
+		<option value="KPIE"> St. Petersburg / Clearwater, St. Petersburg / Clearwater International Airport </option>
+	</state>
+	<state value="Iowa">
+		<option value="KCBF"> Council Bluffs </option>
+		<option value="KDBQ"> Dubuque, Dubuque Regional Airport </option>
+	</state>
+	<state value="Texas">
+	    <option value="KGLS"> Galveston, Scholes Field </option>
+	</state>
+	<state value="West Virginia">
+	    <option value="KCRW"> Charleston, Yeager Airport </option>
+	    <option value="KHLG"> Wheeling, Wheeling Ohio County Airport </option>
+	</state>
+</locations>
