@@ -1,0 +1,5 @@
+1) or - to throw exceptions
+2) split to different files
+each generic has its directory  
+.snt
+3) take into account next pages for some languages

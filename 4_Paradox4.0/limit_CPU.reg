@@ -1,0 +1,3 @@
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Quota System\S-1-5-21-2793993893-2476994158-1138758157-1000]
+"CpuRateLimit"=50
